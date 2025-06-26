@@ -53,7 +53,7 @@ I’m a senior mobile developer with **12+ years of experience**, including **5+
 - 🏋️ **Fitness Booking App**  
   Developed an app for scheduling personal training sessions, payments, and calendar sync — with real-time availability and push notifications.
 
-- 🏃‍♂️ **Gamified Health App (Sweatcoin)**  
+- 🏃‍♂️ **Gamified Health App**  
   Created core modules like referral engine, in-app store, and user rewards, increasing retention via A/B-tested gamification.
 
 - 📊 **Fintech Dashboard & Sync System**  
